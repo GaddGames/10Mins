@@ -1,9 +1,9 @@
 const cacheName = "Gadd Games-10 Minutes To Midnight-0.1.0";
 const contentToCache = [
     "Build/10MinsB.loader.js",
-    "Build/10MinsB.framework.js.br",
-    "Build/10MinsB.data.br",
-    "Build/10MinsB.wasm.br",
+    "Build/10MinsB.framework.js.unityweb",
+    "Build/10MinsB.data.unityweb",
+    "Build/10MinsB.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
